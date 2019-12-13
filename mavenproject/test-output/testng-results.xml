@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+    <line>
+      <![CDATA[Please check your username and password. If you still can't log in, contact your Salesforce administrator.]]>
+    </line>
+    <line>
+      <![CDATA[Please check your username and password. If you still can't log in, contact your Salesforce administrator.]]>
+    </line>
+    <line>
+      <![CDATA[Please check your username and password. If you still can't log in, contact your Salesforce administrator.]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="80572" started-at="2019-12-11T20:32:39 EST" finished-at="2019-12-11T20:34:00 EST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="80572" started-at="2019-12-11T20:32:39 EST" finished-at="2019-12-11T20:34:00 EST">
+      <class name="Tranning.mavenproject.NewTest">
+        <test-method status="PASS" signature="beforeClass(java.lang.String, java.lang.String)[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="beforeClass" is-config="true" duration-ms="26032" started-at="2019-12-11T20:32:39 EST" finished-at="2019-12-11T20:33:05 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://www.salesforce.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="f" duration-ms="12781" started-at="2019-12-11T20:33:05 EST" data-provider="dp" finished-at="2019-12-11T20:33:18 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akter@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Please check your username and password. If you still can't log in, contact your Salesforce administrator.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="f" duration-ms="14892" started-at="2019-12-11T20:33:18 EST" data-provider="dp" finished-at="2019-12-11T20:33:33 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[khaleda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz785]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Please check your username and password. If you still can't log in, contact your Salesforce administrator.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="f(java.lang.String, java.lang.String)[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="f" duration-ms="14473" started-at="2019-12-11T20:33:33 EST" data-provider="dp" finished-at="2019-12-11T20:33:48 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mossammad@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz785]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Please check your username and password. If you still can't log in, contact your Salesforce administrator.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="fd()[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="fd" duration-ms="317" started-at="2019-12-11T20:33:48 EST" finished-at="2019-12-11T20:33:48 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fd -->
+        <test-method status="PASS" signature="fp(java.lang.String, java.lang.String)[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="fp" duration-ms="3712" started-at="2019-12-11T20:33:48 EST" data-provider="dp1" finished-at="2019-12-11T20:33:52 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[akter@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[abcd789]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fp -->
+        <test-method status="PASS" signature="fp(java.lang.String, java.lang.String)[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="fp" duration-ms="3636" started-at="2019-12-11T20:33:52 EST" data-provider="dp1" finished-at="2019-12-11T20:33:55 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[khaleda@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz785]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fp -->
+        <test-method status="PASS" signature="fp(java.lang.String, java.lang.String)[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="fp" duration-ms="3700" started-at="2019-12-11T20:33:55 EST" data-provider="dp1" finished-at="2019-12-11T20:33:59 EST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mossammad@gmail.com]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xyz785]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- fp -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:Tranning.mavenproject.NewTest@6ebc05a6]" name="afterClass" is-config="true" duration-ms="896" started-at="2019-12-11T20:33:59 EST" finished-at="2019-12-11T20:34:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- Tranning.mavenproject.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
